@@ -1,0 +1,35 @@
+<svg width="115" height="40" viewBox="0 0 115 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="112" height="24" transform="translate(0 15.6892) scale(1.00656) rotate(-8)" fill="#FCFCFC" fill-opacity="0.12"/>
+<g clip-path="url(#clip0_1_273)">
+<path d="M18.2143 29.5686L13.896 32.851L14.2024 27.4354L9.74622 24.3428L14.9914 22.9607L16.5557 17.7669L19.491 22.3283L24.9139 22.2111L21.4829 26.4122L23.2701 31.5335L18.2143 29.5686Z" fill="#FCFCFC"/>
+</g>
+<g clip-path="url(#clip1_1_273)">
+<path d="M38.1497 26.7672L33.8313 30.0495L34.1377 24.6339L29.6816 21.5413L34.9267 20.1592L36.4911 14.9654L39.4263 19.5268L44.8492 19.4096L41.4182 23.6107L43.2055 28.7321L38.1497 26.7672Z" fill="#FCFCFC"/>
+</g>
+<g clip-path="url(#clip2_1_273)">
+<path d="M58.085 23.9657L53.7667 27.248L54.073 21.8325L49.6169 18.7398L54.8621 17.3577L56.4264 12.164L59.3617 16.7253L64.7846 16.6081L61.3536 20.8093L63.1408 25.9306L58.085 23.9657Z" fill="#FCFCFC"/>
+</g>
+<g clip-path="url(#clip3_1_273)">
+<path d="M78.0204 21.1632L73.702 24.4456L74.0084 19.03L69.5522 15.9374L74.7974 14.5553L76.3617 9.36152L79.297 13.9229L84.7199 13.8057L81.2889 18.0068L83.0762 23.1281L78.0204 21.1632Z" fill="#FCFCFC"/>
+</g>
+<g clip-path="url(#clip4_1_273)">
+<path d="M97.9557 18.3618L93.6373 21.6441L93.9437 16.2286L89.4876 13.1359L94.7328 11.7538L96.2971 6.56005L99.2324 11.1214L104.655 11.0042L101.224 15.2053L103.012 20.3267L97.9557 18.3618Z" fill="#FCFCFC"/>
+</g>
+<defs>
+<clipPath id="clip0_1_273">
+<rect width="16" height="16" fill="white" transform="translate(8.53448 18.5556) scale(1.00656) rotate(-8)"/>
+</clipPath>
+<clipPath id="clip1_1_273">
+<rect width="16" height="16" fill="white" transform="translate(28.4698 15.7541) scale(1.00656) rotate(-8)"/>
+</clipPath>
+<clipPath id="clip2_1_273">
+<rect width="16" height="16" fill="white" transform="translate(48.4052 12.9526) scale(1.00656) rotate(-8)"/>
+</clipPath>
+<clipPath id="clip3_1_273">
+<rect width="16" height="16" fill="white" transform="translate(68.3405 10.1502) scale(1.00656) rotate(-8)"/>
+</clipPath>
+<clipPath id="clip4_1_273">
+<rect width="16" height="16" fill="white" transform="translate(88.2759 7.3487) scale(1.00656) rotate(-8)"/>
+</clipPath>
+</defs>
+</svg>
